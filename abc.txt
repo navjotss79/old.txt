@@ -3,3 +3,4 @@ this is a new file
 now file has been changed
 now it is changed again
 file has changed again
+deleting some content

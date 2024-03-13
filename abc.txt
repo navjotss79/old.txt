@@ -4,11 +4,11 @@ now file has been changed
 now it is changed again
 file has changed again
 deleting some content
-<<<<<<< HEAD
+
 
 
 i like scm 
 hello world
-=======
+
  i like os 
 godd evening
